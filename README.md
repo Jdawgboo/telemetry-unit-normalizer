@@ -1,2 +1,8 @@
 # telemetry-unit-normalizer
-Normalize telemetry quantities across explicit unit conversion maps.
+
+Convert telemetry values through explicit, auditable unit conversion maps.
+
+```bash
+python -m unittest -v
+```
+MIT licensed.
